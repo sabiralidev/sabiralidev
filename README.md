@@ -122,13 +122,13 @@ const sabirAli = {
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sabirsheik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Sabir Ali's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sabiralidev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Sabir Ali's GitHub Stats" height="175" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&hide=Jupyter%20Notebook&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabiralidev&layout=compact&hide=Jupyter%20Notebook&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sabirsheik&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sabiralidev&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 </div>
