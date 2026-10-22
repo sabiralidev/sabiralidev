@@ -36,7 +36,7 @@
 </p>
 
 </div>
-### ⚡ Engineering Profile
+⚡ Engineering Profile
 
 ```bash
 const sabirAli = {
@@ -54,12 +54,12 @@ const sabirAli = {
 * 🚀 **Current Horizon:** Expanding Python backend pipelines (FastAPI/SQLAlchemy) and practical AI integration.
 
 ---
-
-### 💻 Technologies & Stack
+ 
+💻 Technologies & Stack
 
 <div align="center">
 
-#### 🎨 Frontend Architecture
+🎨 Frontend Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -74,7 +74,7 @@ const sabirAli = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend & API Systems
+ ⚙️ Backend & API Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -85,7 +85,7 @@ const sabirAli = {
   <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
 </p>
 
-#### 🗄️ Database & Cloud Services
+ 🗄️ Database & Cloud Services
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -93,7 +93,7 @@ const sabirAli = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### 🛠️ DevOps & Engineering Workflow
+ 🛠️ DevOps & Engineering Workflow
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -107,7 +107,7 @@ const sabirAli = {
 
 ---
 
-### 🐍 GitHub Contribution Activity
+ 🐍 GitHub Contribution Activity
 
 <div align="center">
 
@@ -135,7 +135,7 @@ const sabirAli = {
 
 ---
 
-### 🎯 Core Principles & Focus
+ 🎯 Core Principles & Focus
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
