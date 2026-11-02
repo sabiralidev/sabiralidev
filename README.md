@@ -53,8 +53,7 @@ const sabirAli = {
 * 🧩 **Deep Dive:** Complex state flows, authentication lifecycles (JWT/OAuth), and database query performance.
 * 🚀 **Current Horizon:** Expanding Python backend pipelines (FastAPI/SQLAlchemy) and practical AI integration.
 
----
- 
+
 💻 Technologies & Stack
 
 <div align="center">
