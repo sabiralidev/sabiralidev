@@ -58,6 +58,7 @@ const sabirAli = {
 
 💻 Technologies & Stack
 
+
 <div align="center">
 
 🎨 Frontend Architecture
