@@ -142,7 +142,6 @@ const sabirAli = {
 </div>
 
 ---
-
  🎯 Core Principles & Focus
 
 ```text
