@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ==================== ANIMATED HEADER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SABIR%20ALI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Product%20Engineer&descSize=16&descAlignY=55" alt="Sabir Ali - Header" />
 
